@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pluralsight.security.TestCreateStreams" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-03-22T08:13:09" hostname="kevins-mac-mini.lan" time="0.009">
+  <properties/>
+  <testcase name="testWhenInputFileNameIsNull()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
+  <testcase name="testWhenDestFileDoesNotExistOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
+  <testcase name="testWhenInputFileDoesExist()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
+  <testcase name="testWhenInputFileDoesNotExist()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
+  <testcase name="testWhenDestFileIsNull()" classname="com.pluralsight.security.TestCreateStreams" time="0.0"/>
+  <testcase name="testWhenDestFileExistsNoOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.0"/>
+  <testcase name="testWhenDestFileExistsOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.0"/>
+  <testcase name="testWhenDestFileDoesNotExistNoOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

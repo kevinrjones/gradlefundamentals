@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pluralsight.security.TestCreateStreams" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-03-21T14:24:24" hostname="kevins-mac-mini.lan" time="0.002">
+  <properties/>
+  <testcase name="testWhenInputFileDoesExist" classname="com.pluralsight.security.TestCreateStreams" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
