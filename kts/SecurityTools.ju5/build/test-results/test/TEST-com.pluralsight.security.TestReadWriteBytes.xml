@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pluralsight.security.TestReadWriteBytes" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-03-22T09:14:29" hostname="kevins-mac-mini.lan" time="0.021">
+<testsuite name="com.pluralsight.security.TestReadWriteBytes" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-04-12T07:23:33" hostname="kevins-mac-mini.lan" time="0.044">
   <properties/>
-  <testcase name="testWriteBytes()" classname="com.pluralsight.security.TestReadWriteBytes" time="0.0"/>
+  <testcase name="testWriteBytes()" classname="com.pluralsight.security.TestReadWriteBytes" time="0.001"/>
   <testcase name="testReadBytes()" classname="com.pluralsight.security.TestReadWriteBytes" time="0.001"/>
-  <testcase name="testWriteBytesEncoded()" classname="com.pluralsight.security.TestReadWriteBytes" time="0.018"/>
+  <testcase name="testWriteBytesEncoded()" classname="com.pluralsight.security.TestReadWriteBytes" time="0.042"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pluralsight.security.TestCreateStreams" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-03-22T09:14:29" hostname="kevins-mac-mini.lan" time="0.014">
+<testsuite name="com.pluralsight.security.TestCreateStreams" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-04-12T07:23:33" hostname="kevins-mac-mini.lan" time="0.017">
   <properties/>
-  <testcase name="testWhenInputFileNameIsNull()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
+  <testcase name="testWhenInputFileNameIsNull()" classname="com.pluralsight.security.TestCreateStreams" time="0.002"/>
   <testcase name="testWhenDestFileDoesNotExistOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
-  <testcase name="testWhenInputFileDoesExist()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
+  <testcase name="testWhenInputFileDoesExist()" classname="com.pluralsight.security.TestCreateStreams" time="0.002"/>
   <testcase name="testWhenInputFileDoesNotExist()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
-  <testcase name="testWhenDestFileIsNull()" classname="com.pluralsight.security.TestCreateStreams" time="0.0"/>
-  <testcase name="testWhenDestFileExistsNoOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.002"/>
-  <testcase name="testWhenDestFileExistsOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.0"/>
+  <testcase name="testWhenDestFileIsNull()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
+  <testcase name="testWhenDestFileExistsNoOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.0"/>
+  <testcase name="testWhenDestFileExistsOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
   <testcase name="testWhenDestFileDoesNotExistNoOverwrite()" classname="com.pluralsight.security.TestCreateStreams" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

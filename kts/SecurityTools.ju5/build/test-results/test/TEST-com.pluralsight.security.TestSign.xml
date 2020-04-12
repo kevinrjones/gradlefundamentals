@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.pluralsight.security.TestSign" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-03-22T09:14:29" hostname="kevins-mac-mini.lan" time="0.071">
+<testsuite name="com.pluralsight.security.TestSign" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-04-12T07:23:33" hostname="kevins-mac-mini.lan" time="0.055">
   <properties/>
-  <testcase name="testLoadPrivateKey()" classname="com.pluralsight.security.TestSign" time="0.022"/>
-  <testcase name="testVerifyData()" classname="com.pluralsight.security.TestSign" time="0.025"/>
-  <testcase name="testLoadKeystore()" classname="com.pluralsight.security.TestSign" time="0.002"/>
-  <testcase name="testParseArgs()" classname="com.pluralsight.security.TestSign" time="0.0"/>
-  <testcase name="testCreateSignature()" classname="com.pluralsight.security.TestSign" time="0.0"/>
+  <testcase name="testLoadPrivateKey()" classname="com.pluralsight.security.TestSign" time="0.018"/>
+  <testcase name="testVerifyData()" classname="com.pluralsight.security.TestSign" time="0.02"/>
+  <testcase name="testLoadKeystore()" classname="com.pluralsight.security.TestSign" time="0.001"/>
+  <testcase name="testParseArgs()" classname="com.pluralsight.security.TestSign" time="0.001"/>
+  <testcase name="testCreateSignature()" classname="com.pluralsight.security.TestSign" time="0.001"/>
   <testcase name="testParseArgsDefaults()" classname="com.pluralsight.security.TestSign" time="0.001"/>
-  <testcase name="testLoadPrivateKeyInvalidPassword()" classname="com.pluralsight.security.TestSign" time="0.001"/>
-  <testcase name="testSignData()" classname="com.pluralsight.security.TestSign" time="0.012"/>
+  <testcase name="testLoadPrivateKeyInvalidPassword()" classname="com.pluralsight.security.TestSign" time="0.002"/>
+  <testcase name="testSignData()" classname="com.pluralsight.security.TestSign" time="0.007"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
